@@ -1,1 +1,1 @@
-window.location.replace("https://duckduckgo.com/");
+window.location.replace("https://duckduckgo.com/*");
