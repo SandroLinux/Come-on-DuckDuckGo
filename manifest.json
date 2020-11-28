@@ -1,7 +1,7 @@
 {
  "name": "Come on DuckDuckGo!",
  "description": "An extension which makes your default search DuckDuckGo and redirects you to duckduckgo.com if you go to Google, Bing, Yahoo, Yandex, Baidu or Sogou",
- "version": "1.8",
+ "version": "1.9",
  "manifest_version": 2,
  "icons": {"48": "Come_on_DuckDuckgo_48.png"},
  "content_scripts": [
@@ -35,7 +35,11 @@
         "https://startpage.com/*",
         "https://www.webcrawler.com/*",
         "https://yippy.com/*",
+        "https://www.onesearch.com/*",
+        "https://www.mojeek.com/*",
+        "https://www.startpage.com/*",
         "https://www.swisscows.com/*",
+        "https://www.givewater.com/*",
         "https://www.ecosia.org/*",
         "https://www.baidu.com/*",
         "https://www.sogou.com/*"
