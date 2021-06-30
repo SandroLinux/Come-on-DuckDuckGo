@@ -1,7 +1,7 @@
 {
  "name": "Come on DuckDuckGo!",
  "description": "An extension which makes your default search DuckDuckGo and redirects you to duckduckgo.com if you go to Google, Bing, Yahoo, Yandex, Baidu or Sogou",
- "version": "1.9.1",
+ "version": "1.9.2",
  "manifest_version": 2,
  "icons": {"48": "images/Come_on_DuckDuckgo_48.png"},
  "content_scripts": [
